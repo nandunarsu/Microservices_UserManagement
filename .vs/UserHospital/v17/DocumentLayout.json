@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|c:\\users\\nandini\\source\\repos\\userhospital\\userhospital\\controllers\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|solutionrelative:userhospital\\controllers\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|c:\\users\\nandini\\source\\repos\\userhospital\\userhospital\\service\\userservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|solutionrelative:userhospital\\service\\userservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|c:\\users\\nandini\\source\\repos\\userhospital\\userhospital\\interface\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|solutionrelative:userhospital\\interface\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|c:\\users\\nandini\\source\\repos\\userhospital\\userhospital\\service\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|solutionrelative:userhospital\\service\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|c:\\users\\nandini\\source\\repos\\userhospital\\userhospital\\context\\usermanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|solutionrelative:userhospital\\context\\usermanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|c:\\users\\nandini\\source\\repos\\userhospital\\userhospital\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|solutionrelative:userhospital\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|c:\\users\\nandini\\source\\repos\\userhospital\\userhospital\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|solutionrelative:userhospital\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|c:\\users\\nandini\\source\\repos\\userhospital\\userhospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|solutionrelative:userhospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|c:\\users\\nandini\\source\\repos\\userhospital\\userhospital\\models\\userregistrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|solutionrelative:userhospital\\models\\userregistrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|c:\\users\\nandini\\source\\repos\\userhospital\\userhospital\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|solutionrelative:userhospital\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|c:\\users\\nandini\\source\\repos\\userhospital\\userhospital\\globalexceptions\\duplicateemailexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|solutionrelative:userhospital\\globalexceptions\\duplicateemailexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|c:\\users\\nandini\\source\\repos\\userhospital\\userhospital\\globalexceptions\\invalidemailformatexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|solutionrelative:userhospital\\globalexceptions\\invalidemailformatexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|c:\\users\\nandini\\source\\repos\\userhospital\\userhospital\\globalexceptions\\invalidpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|solutionrelative:userhospital\\globalexceptions\\invalidpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|c:\\users\\nandini\\source\\repos\\userhospital\\userhospital\\models\\userloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|solutionrelative:userhospital\\models\\userloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|c:\\users\\nandini\\source\\repos\\userhospital\\userhospital\\globalexceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|solutionrelative:userhospital\\globalexceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|c:\\users\\nandini\\source\\repos\\userhospital\\userhospital\\interface\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542A27A8-D039-4120-8078-F4CA97B08A20}|UserHospital\\UserHospital.csproj|solutionrelative:userhospital\\interface\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 156,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\appsettings.json",
+              "RelativeDocumentMoniker": "UserHospital\\appsettings.json",
+              "ToolTip": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\appsettings.json",
+              "RelativeToolTip": "UserHospital\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-20T05:54:55.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\Controllers\\UserManagementController.cs",
+              "RelativeDocumentMoniker": "UserHospital\\Controllers\\UserManagementController.cs",
+              "ToolTip": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\Controllers\\UserManagementController.cs",
+              "RelativeToolTip": "UserHospital\\Controllers\\UserManagementController.cs",
+              "ViewState": "AQIAAOoAAAAAAAAAAAAAAPcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:11:03.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\Program.cs",
+              "RelativeDocumentMoniker": "UserHospital\\Program.cs",
+              "ToolTip": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\Program.cs",
+              "RelativeToolTip": "UserHospital\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:56:16.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\Entity\\UserEntity.cs",
+              "RelativeDocumentMoniker": "UserHospital\\Entity\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\Entity\\UserEntity.cs",
+              "RelativeToolTip": "UserHospital\\Entity\\UserEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T04:21:17.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\Service\\AuthServices.cs",
+              "RelativeDocumentMoniker": "UserHospital\\Service\\AuthServices.cs",
+              "ToolTip": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\Service\\AuthServices.cs",
+              "RelativeToolTip": "UserHospital\\Service\\AuthServices.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T04:22:22.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserServicecs.cs",
+              "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\Service\\UserServicecs.cs",
+              "RelativeDocumentMoniker": "UserHospital\\Service\\UserServicecs.cs",
+              "ToolTip": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\Service\\UserServicecs.cs",
+              "RelativeToolTip": "UserHospital\\Service\\UserServicecs.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAJkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T04:24:33.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\Interface\\IUser.cs",
+              "RelativeDocumentMoniker": "UserHospital\\Interface\\IUser.cs",
+              "ToolTip": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\Interface\\IUser.cs",
+              "RelativeToolTip": "UserHospital\\Interface\\IUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T04:17:26.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsermanagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\Context\\UsermanagementContext.cs",
+              "RelativeDocumentMoniker": "UserHospital\\Context\\UsermanagementContext.cs",
+              "ToolTip": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\Context\\UsermanagementContext.cs",
+              "RelativeToolTip": "UserHospital\\Context\\UsermanagementContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T09:21:30.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\Models\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "UserHospital\\Models\\ResponseModel.cs",
+              "ToolTip": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\Models\\ResponseModel.cs",
+              "RelativeToolTip": "UserHospital\\Models\\ResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T09:57:42.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DuplicateEmailException.cs",
+              "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\GlobalExceptions\\DuplicateEmailException.cs",
+              "RelativeDocumentMoniker": "UserHospital\\GlobalExceptions\\DuplicateEmailException.cs",
+              "ToolTip": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\GlobalExceptions\\DuplicateEmailException.cs",
+              "RelativeToolTip": "UserHospital\\GlobalExceptions\\DuplicateEmailException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T04:59:48.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRegistrationModel.cs",
+              "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\Models\\UserRegistrationModel.cs",
+              "RelativeDocumentMoniker": "UserHospital\\Models\\UserRegistrationModel.cs",
+              "ToolTip": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\Models\\UserRegistrationModel.cs",
+              "RelativeToolTip": "UserHospital\\Models\\UserRegistrationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T04:18:57.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InvalidEmailFormatException.cs",
+              "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\GlobalExceptions\\InvalidEmailFormatException.cs",
+              "RelativeDocumentMoniker": "UserHospital\\GlobalExceptions\\InvalidEmailFormatException.cs",
+              "ToolTip": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\GlobalExceptions\\InvalidEmailFormatException.cs",
+              "RelativeToolTip": "UserHospital\\GlobalExceptions\\InvalidEmailFormatException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:18:27.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InvalidPasswordException.cs",
+              "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\GlobalExceptions\\InvalidPasswordException.cs",
+              "RelativeDocumentMoniker": "UserHospital\\GlobalExceptions\\InvalidPasswordException.cs",
+              "ToolTip": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\GlobalExceptions\\InvalidPasswordException.cs",
+              "RelativeToolTip": "UserHospital\\GlobalExceptions\\InvalidPasswordException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:06:49.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserLoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\Models\\UserLoginModel.cs",
+              "RelativeDocumentMoniker": "UserHospital\\Models\\UserLoginModel.cs",
+              "ToolTip": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\Models\\UserLoginModel.cs",
+              "RelativeToolTip": "UserHospital\\Models\\UserLoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:02:54.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\GlobalExceptions\\UserNotFoundException.cs",
+              "RelativeDocumentMoniker": "UserHospital\\GlobalExceptions\\UserNotFoundException.cs",
+              "ToolTip": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\GlobalExceptions\\UserNotFoundException.cs",
+              "RelativeToolTip": "UserHospital\\GlobalExceptions\\UserNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T04:58:07.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\Interface\\IAuthServices.cs",
+              "RelativeDocumentMoniker": "UserHospital\\Interface\\IAuthServices.cs",
+              "ToolTip": "C:\\Users\\NANDINI\\source\\repos\\UserHospital\\UserHospital\\Interface\\IAuthServices.cs",
+              "RelativeToolTip": "UserHospital\\Interface\\IAuthServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T04:20:38.442Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 156,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
