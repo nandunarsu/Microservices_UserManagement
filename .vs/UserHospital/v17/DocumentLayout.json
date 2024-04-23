@@ -86,8 +86,7 @@
               "RelativeToolTip": "UserHospital\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-20T05:54:55.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-20T05:54:55.67Z"
             },
             {
               "$type": "Document",
@@ -136,8 +135,7 @@
               "RelativeToolTip": "UserHospital\\Service\\AuthServices.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAQwC8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T04:22:22.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-20T04:22:22.364Z"
             },
             {
               "$type": "Document",
@@ -149,8 +147,7 @@
               "RelativeToolTip": "UserHospital\\Service\\UserServicecs.cs",
               "ViewState": "AQIAAH4AAAAAAAAAAAAAAJkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T04:24:33.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-20T04:24:33.515Z"
             },
             {
               "$type": "Document",
@@ -162,8 +159,7 @@
               "RelativeToolTip": "UserHospital\\Interface\\IUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T04:17:26.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-20T04:17:26.149Z"
             },
             {
               "$type": "Document",
@@ -175,8 +171,7 @@
               "RelativeToolTip": "UserHospital\\Context\\UsermanagementContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T09:21:30.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T09:21:30.53Z"
             },
             {
               "$type": "Document",
@@ -188,8 +183,7 @@
               "RelativeToolTip": "UserHospital\\Models\\ResponseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T09:57:42.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T09:57:42.834Z"
             },
             {
               "$type": "Document",
